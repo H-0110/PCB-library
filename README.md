@@ -1,3 +1,5 @@
 # PCB-library
 This is a PCB library.
-![PCB](img/PCB.jpg =1101x512 "PCB")
+![PCB](img/PCB.jpg "PCB")
+<img src="img/PCb.jpg" weidth="1101" height="512"></img>
+      
